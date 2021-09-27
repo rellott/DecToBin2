@@ -360,6 +360,6 @@
     </androidx.constraintlayout.widget.ConstraintLayout>
     
  # Интерфейс
- ![alt text](mobile1.png)
+ ![alt text](mobile1.jpg)
  
 
