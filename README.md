@@ -362,4 +362,5 @@
  # Интерфейс
  ![alt text](mobile1.jpg)
  
+ ![alt text](mobile.gif)
 
