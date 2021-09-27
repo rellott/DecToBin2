@@ -2,32 +2,32 @@
  
 #Main activity code:
  
-package com.example.dectobin2;
+    package com.example.dectobin2;
 
-import androidx.annotation.NonNull;
-import androidx.appcompat.app.AppCompatActivity;
+    import androidx.annotation.NonNull;
+    import androidx.appcompat.app.AppCompatActivity;
 
-import android.os.Bundle;
+    import android.os.Bundle;
 
-import com.google.android.gms.ads.AdListener;
-import com.google.android.gms.ads.AdRequest;
-import com.google.android.gms.ads.AdView;
-import com.google.android.gms.ads.LoadAdError;
-import com.google.android.gms.ads.MobileAds;
+    import com.google.android.gms.ads.AdListener;
+    import com.google.android.gms.ads.AdRequest;
+    import com.google.android.gms.ads.AdView;
+    import com.google.android.gms.ads.LoadAdError;
+    import com.google.android.gms.ads.MobileAds;
 
-import com.google.android.gms.ads.MobileAds;
-import com.google.android.gms.ads.initialization.InitializationStatus;
-import com.google.android.gms.ads.initialization.OnInitializationCompleteListener;
+    import com.google.android.gms.ads.MobileAds;
+    import com.google.android.gms.ads.initialization.InitializationStatus;
+    import com.google.android.gms.ads.initialization.OnInitializationCompleteListener;
 
 
-import android.view.View;
-import android.view.View.OnClickListener;
-import android.widget.Button;
-import android.widget.EditText;
-import android.widget.RadioButton;
-import android.widget.Toast;
+    import android.view.View;
+    import android.view.View.OnClickListener;
+    import android.widget.Button;
+    import android.widget.EditText;
+    import android.widget.RadioButton;
+    import android.widget.Toast;
 
-public class MainActivity extends AppCompatActivity implements OnClickListener{
+    public class MainActivity extends AppCompatActivity implements OnClickListener{
 
     private Button Convert;
 
@@ -164,5 +164,5 @@ public class MainActivity extends AppCompatActivity implements OnClickListener{
 
     }
 
-}
+    }
 
