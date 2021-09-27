@@ -1,6 +1,6 @@
 # DecToBin2
  
-#Main activity code:
+# Main activity code:
  
     package com.example.dectobin2;
 
